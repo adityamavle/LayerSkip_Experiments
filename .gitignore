@@ -103,3 +103,5 @@ ENV
 
 # Ignore all CSV files
 *.csv
+model_weights/
+project_notes.txt
